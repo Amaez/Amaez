@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Alison, a web developer based in the USA.
+I'm Alison, a web developer based in the USA!
 
 Experience working on internal production applications for one of America's largest car rental companies, including a complex form application and an international agent-to-renter messaging platform using React and Twilio.
 
