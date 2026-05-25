@@ -12,4 +12,4 @@ I love working on frontend design, but am also transitioning to a fullstack skil
 
 ⚡ Fun fact: I've also worked as a freelance illustrator, and love drawing animals. I find my love for color influences a lot of my UI designs!
 
-✨ Interests: Art, weightlifting, meditation, travel, and gardening
+✨ Interests: art, weightlifting, meditation, travel, and gardening
