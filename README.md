@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm Alison, a web developer based in the USA.
 
-<!--
-**Amaez/Amaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience working on internal production applications for one of America's largest car rental companies, including a complex form application and an international agent-to-renter messaging platform using React and Twilio.
 
-Here are some ideas to get you started:
+My main tech stack is React/Javascript, Typescript, HTML/CSS, NodeJS, and SQL. 
+I love working on frontend design and am transitioning to a fullstack skillset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently learning:**
+- SQL
+- How to build APIs
+
+- ⚡ Fun fact: I've also worked as a freelance illustrator, and love drawing animals. I find my love for color influences a lot of my UI designs!
+- ✨ Interests: Art, weightlifting, meditation, travel, and gardening
