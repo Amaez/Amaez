@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I'm Alison, a web developer based in the USA.
 
-I've worked on internal production applications for one of America's largest car rental companies, including a complex form application and an international agent-to-renter messaging platform using React and Twilio.
+I've worked on internal production applications for one of America's largest car rental companies, including updating a complex legacy form application, and building an international agent-to-renter messaging platform with over 300 users using React and Twilio.
 
 My main tech stack is React/Javascript, Typescript, HTML/CSS, and NodeJS. 
 I love working on frontend design, but am also transitioning to a fullstack skillset.
